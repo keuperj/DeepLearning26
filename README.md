@@ -18,7 +18,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 
 ### Aufgabe 1
-* [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_1/CIFAR10-ShallowLearning.ipynb)
+* [CIFAR10 Challenge](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_1/CIFAR10-ShallowLearning.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_1/CIFAR10-ShallowLearning_solution.ipynb)
 
 </details>
 <details>
