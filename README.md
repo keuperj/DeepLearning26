@@ -34,6 +34,8 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 ### Aufgabe 2
 * [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb)
 
+
+</details>
 <details>
 <summary> <H2> Woche 3 - Training NNs I </H2><BR></summary>
 
