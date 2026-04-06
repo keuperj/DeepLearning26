@@ -37,7 +37,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 </details>
 <details>
-<summary> <H2> Woche 3 - Training NNs I </H2><BR></summary>
+<summary> <H2> Block 3 - Training NNs I </H2><BR></summary>
 
 ### Vorlesung
 * [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
