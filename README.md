@@ -33,3 +33,23 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 ### Aufgabe 2
 * [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb)
+
+<details>
+<summary> <H2> Woche 3 - Training NNs I </H2><BR></summary>
+
+### Vorlesung
+* [Training a simple Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/Training%20_a_simple_Perceptron_in_NumPy.ipynb)
+* [Training Video](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/train_video.gif)
+
+### Lab
+* [Intro PyTorch tensors](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/pytorch_tensors.ipynb) 
+* [Perceptron in PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/a_perceptron_in_PyTorch.ipynb)
+
+### PyTorch
+* [Tutorials](https://pytorch.org/tutorials/beginner/basics/intro.html)
+* [API](https://pytorch.org/docs/stable/index.html)
+
+### Aufgabe 3
+* [Assignment: MLP in Pytorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_3/Assignment_Basic_MLP_in_Pytorch.ipynb) -
+
+</details>
