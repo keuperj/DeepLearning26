@@ -32,7 +32,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [Single Neuron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/A_simple_Perceptron_in_NumPy.ipynb)
 
 ### Aufgabe 2
-* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb)
+* [Multi Class Perceptron](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/Aufgabe_2_Multi_Class_Perceptrons.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_2/Multi_Class_Perceptrons_solution.ipynb)
 
 
 </details>
