@@ -58,7 +58,9 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 <details>
 <summary> <H2> Block 4 - Training NNs II </H2><BR></summary>
+
 ### Demo
+  
 * [Demo: NN Training Parmeters](https://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=xor&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=1&seed=0.34827&showTestData=true&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ### Lab
