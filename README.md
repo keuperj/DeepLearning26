@@ -77,7 +77,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 <summary> <H2> Woche 5 - CNNs  </H2><BR></summary>
 
 ### Lecture
-* [Video CNN Filter raining](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Learing_AlexNet_Conv1.avi)
+* [Video CNN Filter raining](block_5/Learing_AlexNet_Conv1.avi)
    
 ### Lab
 * [AlexNet Implementation in PyTorch](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/3_alexnet.ipynb)
