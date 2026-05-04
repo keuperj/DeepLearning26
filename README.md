@@ -89,6 +89,19 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Assignment_PyTorch_Model_Zoo.ipynb) 
 
 
+<details>
+<summary> <H2>Block 6 - RNNs </H2><BR></summary>
+
+
+### Lab
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+
+### Assignments
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb)
+
+
+</details>
+
 </details>
 
 
