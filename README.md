@@ -88,7 +88,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 ### Aufgabe 5
 * [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Assignment_PyTorch_Model_Zoo.ipynb) 
 
-
+</details>
 <details>
 <summary> <H2>Block 6 - RNNs </H2><BR></summary>
 
@@ -102,7 +102,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 </details>
 
-</details>
+
 
 
 
