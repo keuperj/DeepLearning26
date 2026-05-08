@@ -86,7 +86,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [Hugging Face Models](https://huggingface.co/models)
 
 ### Aufgabe 5
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Assignment_PyTorch_Model_Zoo.ipynb) 
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Assignment_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_5/Assignment_PyTorch_Model_Zoo_solution.ipynb)
 
 </details>
 <details>
@@ -97,7 +97,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
 
 ### Assignments
-* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb)
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb) 
 
 
 </details>
