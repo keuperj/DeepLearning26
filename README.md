@@ -103,6 +103,20 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 </details>
 
 
+<details>
+<summary> <H2>Block 7 - Transformers </H2><BR></summary>
+
+
+### Lab
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/fine_tune_pre_trained_transformer.ipynb)
+
+### Assignments
+* [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/Transformer_CIFAR10.ipynb) 
+
+
+</details>
+
 
 
 
