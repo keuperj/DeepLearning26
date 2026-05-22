@@ -96,8 +96,8 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 ### Lab
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
 
-### Assignments
-* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb) 
+### Aufgabe 6
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price_solution.ipynb)
 
 
 </details>
@@ -111,7 +111,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/pre_trained_vt.ipynb)
 * [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/fine_tune_pre_trained_transformer.ipynb)
 
-### Assignments
+### Aufgabe 7
 * [Transformer on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_7/Transformer_CIFAR10.ipynb) 
 
 
