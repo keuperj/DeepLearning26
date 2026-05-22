@@ -97,7 +97,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
 
 ### Aufgabe 6
-* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price_solution.ipynb)
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_6/Assignemnt_stock-price-solution.ipynb)
 
 
 </details>
