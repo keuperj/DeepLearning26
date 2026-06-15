@@ -129,7 +129,16 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 </details>
 
 
+<details>
+<summary> <H2>Block 9 - Generative Models I </H2><BR></summary>
+  
+### Lab:
+* [Variational AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_9/variationalautoencoder_pytorch.ipynb)
+* [Example: GAN on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_9/DCGAN_CIFAR10.ipynb)
 
+### Aufgabe 9
+* [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_9/assignment_mnistGAN.ipynb) 
+</details>
 
 
 
