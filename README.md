@@ -118,7 +118,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 </details>
 
 <details>
-<summary> <H2>Woche 8 - Semi-, Self- and Un-Supervised Training | Autoencoders </H2><BR></summary>
+<summary> <H2>Block 8 - Semi-, Self- and Un-Supervised Training | Autoencoders </H2><BR></summary>
   
 ### Links:
 * [PyTorch augmentation transformations](https://pytorch.org/vision/stable/transforms.html)
