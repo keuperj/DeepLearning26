@@ -140,6 +140,15 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_9/assignment_mnistGAN.ipynb) 
 </details>
 
+<details>
+<summary> <H2>Block 10 - Generative Models II </H2><BR></summary>
 
+#### Lab
+* [Stable Diffusion Demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+
+### Aufgabe 10
+* [DDPM from scratch](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_10/DDPM.ipynb)
+
+</details>
 
 
