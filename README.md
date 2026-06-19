@@ -125,7 +125,7 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 * [PyTorch AutoAugmentation](https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html)
 
 ### Aufgabe 8
-* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_8/Assignment_AE_MNIST.ipynb) 
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_8/Assignment_AE_MNIST.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning26/blob/main/block_8/Assignment_AE_MNIST_solution.ipynb)
 </details>
 
 
