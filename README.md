@@ -151,4 +151,14 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 
 </details>
 
+<details>
+<summary> <H2>Block 11 - More Neural Network Architectures </H2><BR></summary>
+* No Lab
+</details>
+
+<details>
+<summary> <H2>Block 12 - Open Problems </H2><BR></summary>
+### Links
+* [BertViz - Transformer Visualization](https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ?usp=sharing)  
+</details>
 
