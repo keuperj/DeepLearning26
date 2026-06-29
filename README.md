@@ -160,10 +160,13 @@ Material zur Vorlesung + Labor Deep Learning an der HSO im SS26
 <summary> <H2>Block 12 - Open Problems </H2><BR></summary>
   
 ### Links
+
 #### XAI
 * [BertViz - Transformer Visualization in Colab](https://colab.research.google.com/drive/1hXIQ77A4TYS4y3UthWF-Ci7V7vVUoxmQ?usp=sharing)
+
 #### Adversarial Attacks
 * [RobustBench - Adversarial Attacks on Vision Models](https://robustbench.github.io/)
 * [FGSM Colab Demo](https://docs.pytorch.org/tutorials/beginner/fgsm_tutorial.html)
+
 </details>
 
